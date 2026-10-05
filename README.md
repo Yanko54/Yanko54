@@ -10,18 +10,18 @@ ITスクール「RareTECH」でWeb開発を学びながら、
 
 ## Projects
 
-### ポッケ
+### [ポッケ](https://github.com/Yanko54/pokke)
 子どもの「もらう・つかう」をその場で記録し、お金のやり取りを親子で手軽に楽しむバーチャルお財布アプリ。
 
 React / TypeScript / Vite
 
-### Teamy
+### [Teamy](https://github.com/2026-Winter-Hackathon-Dteam/D-team-project)
 価値観の違いを可視化し、チーム内のコミュニケーション改善を支援するアプリ。
 UI設計とフロントエンド実装を中心に担当しました。
 
 Django / Tailwind CSS / MySQL
 
-### Tabitalk
+### [Tabitalk](https://github.com/I-Team-Hackathon-2025-Summer/I-Team)
 47都道府県別のチャットルームで、旅行情報やおすすめスポットを共有できる
 旅行コミュニティアプリ。
 
@@ -29,7 +29,7 @@ Django / Tailwind CSS / MySQL
 
 Flask / MySQL / JavaScript / Docker
 
-### ゴハンドースル
+### [ゴハンドースル](https://github.com/Autumn-Hackathon-2025-J-Team/data)
 毎日の献立決めをラクにするための、家族で献立相談やルーレット決めなどを行うアプリ。
 
 APIの設計・実装など、バックエンド実装を担当しました。
@@ -40,3 +40,4 @@ Flask / MySQL / Docker
 ## Links
 
 - [Portfolio](https://app.notion.com/p/da49be4d4274837b9f3401dd026e9940?source=copy_link)
+- [Wantedly](https://www.wantedly.com/id/yukakurata)
