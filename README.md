@@ -10,7 +10,7 @@ ITスクール「RareTECH」でWeb開発を学びながら、
 
 ## Projects
 
-### Pokke
+### ポッケ
 子どもの「もらう・つかう」をその場で記録し、お金のやり取りを親子で手軽に楽しむバーチャルお財布アプリ。
 
 React / TypeScript / Vite
